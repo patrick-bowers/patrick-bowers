@@ -20,7 +20,6 @@ My experience includes electronics repair and circuit troubleshooting, Arduino p
 
 ## What I'm working toward
 
-I'm developing my skills in embedded DSP and exploring autonomous systems, avionics, sensor fusion, and RF sensing. My ARCHANGEL avionics concept outlines a sensor-to-telemetry system; it is currently a design proposal.
-
+I'm developing my skills in embedded DSP and exploring autonomous systems, avionics, sensor fusion, and RF sensing. 
 [LinkedIn](https://www.linkedin.com/in/patrick--bowers/)
 
