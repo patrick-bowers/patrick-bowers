@@ -9,7 +9,7 @@ My experience includes electronics repair and circuit troubleshooting, Arduino p
 | Project | Focus | Status |
 | --- | --- | --- |
 | [FM radio receiver](https://github.com/patrick-bowers/fm-radio-receiver) | Mega 2560 + Si4703 tuner, I²C, serial commands, and a Python/Tkinter control panel | Hardware build documented; source snapshots and integration limitations included |
-| [Embedded DSP signal chain](https://github.com/patrick-bowers/embedded-dsp-scrambler) | Timer-driven ADC, digital gain/filtering, and double-buffered sample reordering | Active hardware project; implementation and measurements reported, firmware/captures pending upload |
+| [Embedded DSP signal chain](https://github.com/patrick-bowers/embedded-dsp-scrambler) | 10 kS/s interrupt-driven ADC, 62.5 kHz PWM, digital filtering, and sample scrambling | Core pipeline and block scrambler completed; eight sketches published, LFSR/XOR extension included |
 
 ## Technical background
 
