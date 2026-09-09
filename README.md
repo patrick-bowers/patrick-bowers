@@ -8,6 +8,7 @@ My experience includes electronics repair and circuit troubleshooting, Arduino p
 
 | Project | Focus | Status |
 | --- | --- | --- |
+| [RISC-V pipeline simulator](https://github.com/patrick-bowers/riscv-pipeline-simulator) | Python instruction decoding, pipeline queues, hazard tracking, and cycle-by-cycle processor state | Published with a verified sample trace |
 | [FM radio receiver](https://github.com/patrick-bowers/fm-radio-receiver) | Mega 2560 + Si4703 tuner, I²C, serial commands, and a Python/Tkinter control panel | Hardware build documented; source snapshots and integration limitations included |
 | [Embedded DSP signal chain](https://github.com/patrick-bowers/embedded-dsp-scrambler) | 10 kS/s interrupt-driven ADC, 62.5 kHz PWM, digital filtering, and sample scrambling | Core pipeline and block scrambler completed; eight sketches published, LFSR/XOR extension included |
 
@@ -16,10 +17,9 @@ My experience includes electronics repair and circuit troubleshooting, Arduino p
 - **Programming:** Python and C/C++; MATLAB for engineering work.
 - **Embedded and electronics:** Arduino, microcontrollers, I²C/SPI/UART, serial communication, soldering, circuit troubleshooting, oscilloscopes, and multimeters.
 - **Tools:** Arduino IDE, MATLAB, Multisim, Linux/SSH, SBATCH, PyMOL, and Git.
-- **Computer architecture:** coursework and a RISC-V processor simulation project involving pipelining, scoreboarding, and data hazards. Source release is pending.
+- **Computer architecture:** [RISC-V instruction decoding and pipeline simulation](https://github.com/patrick-bowers/riscv-pipeline-simulator), including queue behavior, scoreboarding, and data hazards.
 
 ## What I'm working toward
 
-I'm developing my skills in embedded DSP and exploring autonomous systems, avionics, sensor fusion, and RF sensing. 
+I'm developing my skills in embedded DSP and exploring autonomous systems, avionics, sensor fusion, and RF sensing.  
 [LinkedIn](https://www.linkedin.com/in/patrick--bowers/)
-
